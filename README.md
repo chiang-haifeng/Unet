@@ -299,12 +299,6 @@ python labelme2seg.py docs/annotation/labelme_demo/
 ![image-20220213213018281](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213213018281.png)
 
 
-![image-20211212195912911](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20211212195912911.png)
-
-
-
-
-
 
 
 
