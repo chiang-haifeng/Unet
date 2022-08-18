@@ -298,21 +298,6 @@ python labelme2seg.py docs/annotation/labelme_demo/
 
 ![image-20220213213018281](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213213018281.png)
 
-## 找到我
-
-<font color='red'>需要远程的调试的小伙伴直接扫码加我好友（qq: 3045834499）即可，没有三连的小伙伴99元，三连的小伙伴只需49元，你就可以获取环境配置、标注好的数据集、训练好的模型以及远程在线答疑全套服务。</font>
-
-你可以通过这些方式来寻找我。
-
-B站：[肆十二-](https://space.bilibili.com/161240964)
-
-CSDN：[肆十二](https://blog.csdn.net/ECHOSON)
-
-知乎：[肆十二 ](https://www.zhihu.com/people/song-chen-ming-28)
-
-微博：[肆十二-](https://weibo.com/u/5999979327)
-
-现在关注以后就是老朋友喽！
 
 ![image-20211212195912911](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20211212195912911.png)
 
