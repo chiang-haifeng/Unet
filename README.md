@@ -8,10 +8,6 @@
 
 ![image-20220213204230631](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213204230631.png)
 
-<font color='red'>需要远程调试的小伙伴直接扫码加我好友（qq: 3045834499）即可，没有三连的小伙伴99元，三连的小伙伴只需49元，你就可以获取环境配置、标注好的数据集、训练好的模型以及远程在线答疑全套服务。</font>
-
-![image-20220213210830663](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213210830663.png)
-
 ## 算法原理介绍
 
 > 论文地址：https://arxiv.org/pdf/1505.04597.pdf
